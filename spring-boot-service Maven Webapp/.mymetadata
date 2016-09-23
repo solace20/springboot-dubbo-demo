@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="spring-boot-service Maven Webapp"
+  id="myeclipse.1474627019160"
+  context-root="/spring-boot-service"
+  j2ee-spec="6.0"
+  archive="spring-boot-service Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
